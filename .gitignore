@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 node_modules
 npm-debug.log
 .DS_Store
 dist
+=======
+.sass-cache/
+*.css.map
+>>>>>>> 57e45e32b6c71632bf6d941b7e412f25c918cf8e
