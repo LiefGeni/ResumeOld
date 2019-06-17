@@ -1,0 +1,124 @@
+---
+update_time: '2019.09.17'
+name: 张涛
+nickname: LiefGeni,张木期
+meta_content: 研二前端狗，HR姐姐们把我招到碗里去吧
+keywords: LiefGeni,前端,工作,简历
+ga_id: '000000'
+age: 24岁
+gender: 男
+school: 江苏大学
+profession: 电子与通信工程
+grade: 研二
+english_level: CET-6
+blog: https://blog.csdn.net/qq_27674439
+github: https://www.github.com/LiefGeni
+
+apply_to_position: Web前端工程师
+description: !!md |
+  我叫张涛，江苏大学电气信息工程学院研二，现在在导师的公司实习，负责前端开发。自学web前端，后端Node.js，PHP 也略知一二。能折腾，喜欢在实践中学习，学Vue和React的时候就是看官方API，然后直接用在写个人博客上，在不断的跳坑脱坑中进步。希望在工作中能应用到自己所学的东西，跟产品一同成长。
+contact: # 联系方式
+  -
+    icon: fa-envelope
+    name: Email
+    value: nanshenstudy@gmail.com
+  -
+    icon: fa-qq
+    name: QQ
+    value: '619448091'
+  -
+    icon: fa-phone-square
+    name: PhoneNumber
+    value: '18352862238'
+honor: # 奖项荣誉
+tech: # 技能点
+  -
+    name: HTML/CSS
+    percentage: 80%
+  -
+    name: JavaScript
+    percentage: 60%
+  -
+    name: PHP
+    percentage: 50%
+  -
+    name: Git
+    percentage: 60%
+  -
+    name: Node.js
+    percentage: 40%
+experience: # 项目经验
+  -
+    section: 个人项目
+    project:
+      -
+        name: workspace
+        date: 2019.2
+        img:
+        website:
+        source_code: https://github.com/LiefGeni/workspace
+        des: !!md |
+          开发了一个移动应用商城[workspace](https://github.com/LiefGeni/workspace)，运用了Vue2.0+node.js+MongoDB运用webpack打包实现全栈开发。
+      -
+        name: blog
+        date: 2018.12
+        img:
+        website:
+        source_code: https://github.com/LiefGeni/blog
+        des: !!md |
+          运用node.js+MongoDB实现小型博客系统
+      -
+        name: Blog
+        date: 2018.9
+        img:
+        website:
+        source_code: https://github.com/LiefGeni/FristDemo
+        des: !!md |
+          用来练手仿造百度外卖实现移动端开发。
+  -
+    section: 实习经历
+    exper:
+      - 
+        company: 江苏科茂信息技术有限公司
+        time: 2017.7.14 - 2017.9.1
+        desc: !!md |
+          在导师的公司，主要做前端方面的实现需求，解决bug等工作。
+        project:
+          -
+            des: !!md |
+              技术需求上，改造过内部的一个手机号验证组件，实现了多实例，状态保存等功能，在代码层面也做了优化，减少$的使用，重复运行的代码抽离出来等等。
+          -
+            des: !!md |
+              业务需求上，在做官网轮播图需求的时候，把旧的代码封装成内部组件，并且可以绑定多个实例，实现代码的复用。
+          -
+            des: !!md |
+              在解决bug的过程中，也积累了不少经验，比如有ie下的background：rgba兼容性问题，通过google用filter解决的。
+          -
+            des: !!md |
+              在开发的过程中，我会思考怎么实现是最好的，团队的产品也教会了我认真做好每一个细节。在科茂的人生第一次职场之旅，挺好的。
+      - 
+       
+          #   name: 微信公众号开发
+          #   date: 2017.11 - 至今
+          #  
+          #   website: 漫步社区，漫步校园，52智能宝
+          #   source_code:
+          #   des: !!md |
+          #     这些公众号的开发，让我熟悉了很多东西。
+          #     一开始我写了一堆if-else，数据跟表单一一对应，后来发现这样做代码量很大，而且不够灵活。后来重新安排数据结构，用label作为key值，前端表单label作为value值，通过模板引擎跟后端对应起来，这样既大大减少了代码量，也提高了灵活性。
+skill: # 技能清单
+      -
+        des: !!md |
+          能够用 HTML + CSS 编写语义化的代码，完成较复杂的布局，熟悉Stylus、PostCss 等css预处理、后处理工具
+      -
+        des: !!md |
+          在Blog项目中熟悉了 Vue，写过Vue的双向数据绑定[Demo](https://github.com/LiefGeni/blog)， 使用了 ES6、7 的新语法，了解 Node.js, jQuery.
+      -
+        des: !!md |
+          熟悉 Git Webpack Gulp 等开发工具
+      -
+        des: !!md |
+          熟悉 Koa, Express, MongoDB, Mysql 能搭建简单的后端项目
+
+
+---
