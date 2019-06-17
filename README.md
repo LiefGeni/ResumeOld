@@ -5,7 +5,7 @@ Resume-it
 效果：https://LiefGeni.github.io/Resume/
 如果喜欢的话请给个star ^_^
 
-![(./resume.png)![1560733463476](C:\Users\ADMINI~1\AppData\Local\Temp\1560733463476.png)
+![resume](D:\GIT_KU\Resume\resume.jpg)
 
 Node version v10.15.0
 
@@ -77,7 +77,7 @@ npm run public
 
 ## 更新日志
 
-2017.6.18
+2019.6.18
   调整结构，采用 Gulp 打包，public 用 `simple-git`, 不用shell脚本了
 
 ## LICENSE
